@@ -1,0 +1,5 @@
+- 👋 oi, meu nome é Ana Laura
+- 👀 meu contato é @az3004
+- 🌱 eu estou interessada em terminar esse curso
+- 💞️ estou aprendendo programação
+- 📫 nasci em Maringá mas moro em Londrina
