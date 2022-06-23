@@ -1,5 +1,6 @@
+- # Sobre mim
 - 👋 oi, meu nome é Ana Laura
-- 👀 meu contato é @az3004
+- 👀 meu contato é ana.zambroti@escola.pr.gov.br
 - 🌱 eu estou determinada em terminar esse curso
 - 💞️ estou aprendendo programação
 - 📫 nasci em Maringá mas moro em Londrina
